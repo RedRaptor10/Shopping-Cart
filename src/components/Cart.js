@@ -44,7 +44,7 @@ const Cart = ({cart, setCart}) => {
 										<h1>{item.name}</h1>
 									</Link>
 								</div>
-								<div className="item-price">Price: ${item.price}</div>
+								<div className="item-price">Price: ${item.price.toFixed(2)}</div>
 								<div className="item-description">{item.description}</div>
 								<div>Qty: {item.quantity}</div>
 								<div className="item-buttons-container">
