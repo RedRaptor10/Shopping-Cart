@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { BrowserRouter, Switch, Route } from "react-router-dom";
+import { HashRouter, Switch, Route } from "react-router-dom";
 import Header from "./Header";
 import Footer from "./Footer";
 import Home from "./Home";
@@ -11,7 +11,7 @@ const App = () => {
 	const [cart, setCart] = useState([]);
 
 	return (
-		<BrowserRouter basename="/Shopping-Cart">
+		<HashRouter basename="/Shopping-Cart">
 			<Header cart={cart} />
 			<Switch>
 				<Route exact path="/" component={Home} />
@@ -24,7 +24,7 @@ const App = () => {
 				</Route>
 			</Switch>
 			<Footer />
-		</BrowserRouter>
+		</HashRouter>
 	);
 };
 
