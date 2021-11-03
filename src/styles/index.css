@@ -48,8 +48,8 @@ body {
 	margin-right: 12px;
 }
 
-.container, .item-container, .cart-container {
-	height: 100vh;
+.item-container, .cart-container {
+	min-height: 100vh;
 	padding: 12px;
 }
 
