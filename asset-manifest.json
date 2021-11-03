@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Shopping-Cart/static/css/main.4532162b.chunk.css",
+    "main.js": "/Shopping-Cart/static/js/main.8e8366a3.chunk.js",
+    "main.js.map": "/Shopping-Cart/static/js/main.8e8366a3.chunk.js.map",
+    "runtime-main.js": "/Shopping-Cart/static/js/runtime-main.2cbb2df3.js",
+    "runtime-main.js.map": "/Shopping-Cart/static/js/runtime-main.2cbb2df3.js.map",
+    "static/js/2.b23860e5.chunk.js": "/Shopping-Cart/static/js/2.b23860e5.chunk.js",
+    "static/js/2.b23860e5.chunk.js.map": "/Shopping-Cart/static/js/2.b23860e5.chunk.js.map",
+    "index.html": "/Shopping-Cart/index.html",
+    "static/css/main.4532162b.chunk.css.map": "/Shopping-Cart/static/css/main.4532162b.chunk.css.map",
+    "static/js/2.b23860e5.chunk.js.LICENSE.txt": "/Shopping-Cart/static/js/2.b23860e5.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/Shopping-Cart/static/media/background.c8eba937.jpg",
+    "static/media/case.7e459737.jpg": "/Shopping-Cart/static/media/case.7e459737.jpg",
+    "static/media/keyboard.0e5dab4e.jpg": "/Shopping-Cart/static/media/keyboard.0e5dab4e.jpg",
+    "static/media/memory.c710fe39.jpg": "/Shopping-Cart/static/media/memory.c710fe39.jpg",
+    "static/media/monitor.edf934b5.jpg": "/Shopping-Cart/static/media/monitor.edf934b5.jpg",
+    "static/media/motherboard.41dc7324.jpg": "/Shopping-Cart/static/media/motherboard.41dc7324.jpg",
+    "static/media/power-supply.c66f4a73.jpg": "/Shopping-Cart/static/media/power-supply.c66f4a73.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2cbb2df3.js",
+    "static/js/2.b23860e5.chunk.js",
+    "static/css/main.4532162b.chunk.css",
+    "static/js/main.8e8366a3.chunk.js"
+  ]
+}
