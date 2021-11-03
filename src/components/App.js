@@ -11,7 +11,7 @@ const App = () => {
 	const [cart, setCart] = useState([]);
 
 	return (
-		<HashRouter basename="/Shopping-Cart">
+		<HashRouter>
 			<Header cart={cart} />
 			<Switch>
 				<Route exact path="/" component={Home} />
