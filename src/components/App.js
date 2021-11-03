@@ -1,5 +1,3 @@
-// Example: https://github.com/Harvok17/shopping-cart
-
 import React, { useState } from "react";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import Header from "./Header";
@@ -13,7 +11,7 @@ const App = () => {
 	const [cart, setCart] = useState([]);
 
 	return (
-		<BrowserRouter>
+		<BrowserRouter basename="/Shopping-Cart">
 			<Header cart={cart} />
 			<Switch>
 				<Route exact path="/" component={Home} />
